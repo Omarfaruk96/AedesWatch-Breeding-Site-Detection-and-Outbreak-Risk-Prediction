@@ -4,7 +4,6 @@
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
-![Status](https://img.shields.io/badge/status-portfolio%20project-orange)
 
 > Aedes mosquito breeding-site detection (YOLOv8) + dengue/Zika outbreak risk
 > prediction (ML) for public health surveillance. Includes a synthetic data
